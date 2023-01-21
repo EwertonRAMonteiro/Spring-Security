@@ -17,4 +17,4 @@
 ## :computer: Adendos;
 
 
-☑️ Repositorio para estudo da estrutura do Spring Security, criptografando a senha e salvando no banco de dados com estrutura de criptografia 256 bytes
+☑️ Repositorio para estudo da estrutura do Spring Security, criptografando a senha e salvando no banco de dados com estrutura de criptografia 256 bytes em JWT
